@@ -1,3 +1,5 @@
+//view
+
 let ball = document.querySelector('.segment-start')
 
 ball.ondragstart = function() {
